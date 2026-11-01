@@ -8,6 +8,8 @@ The purpose of this project is to improve the gameplay experience, address techn
 
 All modifications are intended to be optional, allowing players to enjoy either the original experience or an enhanced version according to their preferences.
 
+Tested only with English/USA BT4 B14 REV2; spanish version expected to be compatible but not tested.
+
 ## 🤖 Development & AI Assistance
 
 This project is developed with the assistance of OpenAI's Codex, using GPT-6.1 Sol and other available AI models.
