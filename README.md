@@ -59,7 +59,7 @@ Players should always have the freedom to enable or disable modifications accord
 
 - Custom soundtrack management.
 
-- Designed for Linux and Steam Deck.
+- Designed for Linux and Steam Deck. Windows is experimental.
 
 ## 🐧 Steam Deck & Linux
 
