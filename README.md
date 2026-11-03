@@ -49,6 +49,18 @@ The objective is to explore new possibilities while keeping the original gamepla
 
 Players should always have the freedom to enable or disable modifications according to their preferences.
 
+## 🖥 1 Mod : 🎵 My Music 
+
+- Custom music support through the My Music system.
+
+- 56 dedicated music folders.
+
+- Support for MP3, OGG Vorbis, and Opus audio formats.
+
+- Custom soundtrack management.
+
+- Designed for Linux and Steam Deck.
+
 ## 🐧 Steam Deck & Linux
 
 Special attention is given to Linux and Steam Deck compatibility.
