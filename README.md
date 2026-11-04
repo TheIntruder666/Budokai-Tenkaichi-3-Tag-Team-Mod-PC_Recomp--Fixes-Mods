@@ -49,7 +49,9 @@ The objective is to explore new possibilities while keeping the original gamepla
 
 Players should always have the freedom to enable or disable modifications according to their preferences.
 
-## 🖥 1 Mod : 🎵 My Music 
+## 🖥 1 Mod : 
+
+<img width="2172" height="724" alt="ChatGPT Image 4 nov  2026, 18_47_09" src="https://github.com/user-attachments/assets/795712fa-edc8-4ce7-8d54-442d66bfcaa7" />
 
 - Custom music support through the My Music system.
 
