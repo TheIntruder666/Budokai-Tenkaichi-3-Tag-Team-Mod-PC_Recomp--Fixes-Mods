@@ -86,7 +86,7 @@ Turn a successful throw into a native pursuit or vanish attack to continue your 
 - Melee Clash Follow-ups
 Follow a clash victory with an immediate pursuit or vanish attack, with buffered inputs for smoother execution.
 
-- Modern Look (From the Tenkaichi3Decomp)
+- Modern Look (Credit for the original Modern Look implementation goes to the Tenkaichi3Decomp project.)
 Optional anime-style shading, richer colours and enhanced lighting.
 
 Customize your experience: enable each RB2 feature independently.
