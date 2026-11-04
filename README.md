@@ -53,7 +53,7 @@ Players should always have the freedom to enable or disable modifications accord
 
 - Custom music support through the My Music system.
 
-- 56 dedicated music folders.
+- 236 dedicated music folders.
 
 - Support for MP3, OGG Vorbis, and Opus audio formats.
 
