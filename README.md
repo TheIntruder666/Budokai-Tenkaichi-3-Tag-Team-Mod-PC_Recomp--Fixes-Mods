@@ -63,6 +63,32 @@ Players should always have the freedom to enable or disable modifications accord
 
 - Designed for Linux and Steam Deck. Windows is experimental.
 
+## 🖥 2 Mod : 
+
+<img width="800" height="267" alt="ChatGPT Image 4 nov  2026, 18_44_53" src="https://github.com/user-attachments/assets/485dc26a-1109-48ed-9c32-16088dff2264" />
+
+Bring a touch of Raging Blast 2 to Tenkaichi 4 with more accessible defensive timing, new combo opportunities and optional AI enhancements.
+
+- RB2-Inspired Defensive Timing
+More forgiving vanish and special-attack evasion windows, with retry delays that keep Z Counters timing-based.
+
+- Triangle / Y Z Counter
+An optional, more convenient counter input alongside the original command.
+
+- Manual Vanish — B + RB
+Prepare your teleport and evade in your chosen direction. Greater travel distance is balanced by ki consumption and vulnerable preparation and recovery.
+
+- Grab Follow-ups
+Turn a successful throw into a native pursuit or vanish attack to continue your combo.
+
+- Melee Clash Follow-ups
+Follow a clash victory with an immediate pursuit or vanish attack, with buffered inputs for smoother execution.
+
+- Modern Look
+Optional anime-style shading, richer colours and enhanced lighting.
+
+Customize your experience: enable each RB2 feature independently.
+
 ## 🐧 Steam Deck & Linux
 
 Special attention is given to Linux and Steam Deck compatibility.
