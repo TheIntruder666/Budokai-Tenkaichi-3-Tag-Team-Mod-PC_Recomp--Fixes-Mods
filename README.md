@@ -51,7 +51,7 @@ Players should always have the freedom to enable or disable modifications accord
 
 ## 🖥 1 Mod : 
 
-<img width="2172" height="724" alt="ChatGPT Image 4 nov  2026, 18_47_09" src="https://github.com/user-attachments/assets/795712fa-edc8-4ce7-8d54-442d66bfcaa7" />
+<img width="800" height="267" alt="ChatGPT Image 4 nov  2026, 18_47_09" src="https://github.com/user-attachments/assets/795712fa-edc8-4ce7-8d54-442d66bfcaa7" />
 
 - Custom music support through the My Music system.
 
