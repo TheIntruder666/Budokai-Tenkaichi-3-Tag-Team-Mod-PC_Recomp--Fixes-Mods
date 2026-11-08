@@ -91,6 +91,10 @@ Optional anime-style shading, richer colours and enhanced lighting.
 
 Customize your experience: enable each RB2 feature independently.
 
+## 🖥 3 Mod : AI Advanced
+
+- Improve AI to perform Z-counter and teleport counter attack more frequently.
+
 ## 🐧 Steam Deck & Linux
 
 Special attention is given to Linux and Steam Deck compatibility.
