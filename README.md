@@ -96,7 +96,24 @@ Optional anime-style shading, richer colours and enhanced lighting.
 
 Customize your experience: enable each RB2 feature independently.
 
-## 🖥 3 Mod : AI Advanced
+## 🖥 3 Mod :
+
+<img width="800" height="267" alt="exec-bc0d3e2e-3655-4e95-af79-df13f3300625" src="https://github.com/user-attachments/assets/8475e063-5be3-4942-8ec6-b604f5918226" />
+
+Give your game a fresh look with a redesigned UI that blends the classic Budokai Tenkaichi style with the colors and scouter tech of the Dragon Ball Z era.
+
+-3D Character Previews — Replace character artwork with 3D models on the character select screen.
+
+-Budokai Tenkaichi–Style Character Select — Browse the roster in a redesigned interface inspired by the Budokai Tenkaichi games.
+
+-Dragon Ball Z–Inspired HUD — Play with a HUD that draws on the Dragon Ball Z logo’s color palette and the visual style of the Z era.
+
+-Floating Character Artwork — Enable a floating animation for character artwork on the character select screen.
+
+-Scouter-Inspired Stage Select — Choose your stage through an interface modeled after the scouters worn by Dragon Ball Z characters.
+
+
+## 🖥 4 Mod : AI Advanced
 
 - Improve AI to perform Z-counter and teleport counter attack more frequently.
 <img width="400" height="250" alt="AI advanced" src="https://github.com/user-attachments/assets/327e8996-97fa-43fd-b68e-1fd7c754c583" />
