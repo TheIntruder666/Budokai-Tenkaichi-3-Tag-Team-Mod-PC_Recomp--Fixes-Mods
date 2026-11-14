@@ -1,3 +1,4 @@
+<img width="400" height="250" alt="B+RB" src="https://github.com/user-attachments/assets/43974c87-418d-428d-8e52-ea25818cd3dc" />
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/4ffb5157-ebd0-4fda-9832-4b18cd215119" />
 
 # Dragon Ball Z: Budokai Tenkaichi 3 Tag Team PC Recomp — Community Fixes & Mods
@@ -79,12 +80,16 @@ An optional, more convenient counter input alongside the original command.
 
 - Manual Vanish — B + RB
 Prepare your teleport and evade in your chosen direction. Greater travel distance is balanced by ki consumption and vulnerable preparation and recovery.
+<img width="400" height="250" alt="B+RB" src="https://github.com/user-attachments/assets/ace6af92-d191-47d8-9905-683f323ae090" />
+<img width="400" height="250" alt="B+RB2" src="https://github.com/user-attachments/assets/31c9cd93-5448-4e1c-bf21-1d79bb4d4fe5" />
 
 - Grab Follow-ups
 Turn a successful throw into a native pursuit or vanish attack to continue your combo.
 
 - Melee Clash Follow-ups
 Follow a clash victory with an immediate pursuit or vanish attack, with buffered inputs for smoother execution.
+<img width="400" height="250" alt="Clash+Pursuit" src="https://github.com/user-attachments/assets/25168d3b-f5cb-45a1-bf05-0d10a11d4b9a" />
+<img width="400" height="250" alt="Clash+Vanish" src="https://github.com/user-attachments/assets/f9f07535-53c3-4451-a70a-541cf8a6d96a" />
 
 - Modern Look (Credit for the original Modern Look implementation goes to the Tenkaichi3Decomp project.)
 Optional anime-style shading, richer colours and enhanced lighting.
@@ -94,6 +99,7 @@ Customize your experience: enable each RB2 feature independently.
 ## 🖥 3 Mod : AI Advanced
 
 - Improve AI to perform Z-counter and teleport counter attack more frequently.
+<img width="400" height="250" alt="AI advanced" src="https://github.com/user-attachments/assets/327e8996-97fa-43fd-b68e-1fd7c754c583" />
 
 ## 🐧 Steam Deck & Linux
 
