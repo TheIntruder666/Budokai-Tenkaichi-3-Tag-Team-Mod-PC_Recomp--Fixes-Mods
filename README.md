@@ -1,3 +1,5 @@
+<img width="400" height="250" alt="Floating Artworks" src="https://github.com/user-attachments/assets/b3cc82e5-2257-4a51-94bd-4d9a47fe9766" />
+<img width="400" height="250" alt="Floating Artworks" src="https://github.com/user-attachments/assets/1424a5f7-80a5-475e-a2df-451e47190cb9" />
 <img width="400" height="250" alt="B+RB" src="https://github.com/user-attachments/assets/43974c87-418d-428d-8e52-ea25818cd3dc" />
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/4ffb5157-ebd0-4fda-9832-4b18cd215119" />
 
@@ -103,12 +105,14 @@ Customize your experience: enable each RB2 feature independently.
 Give your game a fresh look with a redesigned UI that blends the classic Budokai Tenkaichi style with the colors and scouter tech of the Dragon Ball Z era.
 
 -3D Character Previews — Replace character artwork with 3D models on the character select screen.
+<img width="400" height="250" alt="Select screen 3D" src="https://github.com/user-attachments/assets/f1abc96f-15bf-442b-9476-b57a8ab46b03" />
 
 -Budokai Tenkaichi–Style Character Select — Browse the roster in a redesigned interface inspired by the Budokai Tenkaichi games.
 
 -Dragon Ball Z–Inspired HUD — Play with a HUD that draws on the Dragon Ball Z logo’s color palette and the visual style of the Z era.
 
 -Floating Character Artwork — Enable a floating animation for character artwork on the character select screen.
+<img width="400" height="250" alt="Floating Artworks" src="https://github.com/user-attachments/assets/39a0f64b-a150-46a6-a0a0-f3e98cb2d2d6" />
 
 -Scouter-Inspired Stage Select — Choose your stage through an interface modeled after the scouters worn by Dragon Ball Z characters.
 
