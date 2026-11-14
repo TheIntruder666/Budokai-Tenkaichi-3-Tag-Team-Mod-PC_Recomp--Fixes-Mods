@@ -118,6 +118,7 @@ Give your game a fresh look with a redesigned UI that blends the classic Budokai
 <img width="400" height="250" alt="Floating Artworks" src="https://github.com/user-attachments/assets/39a0f64b-a150-46a6-a0a0-f3e98cb2d2d6" />
 
 -Scouter-Inspired Stage Select — Choose your stage through an interface modeled after the scouters worn by Dragon Ball Z characters.
+<img width="400" height="250" alt="20261114214150_1" src="https://github.com/user-attachments/assets/729e714e-2983-40e3-8baa-95ed0fffc1b5" />
 
 
 ## 🖥 4 Mod : AI Advanced
