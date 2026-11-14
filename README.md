@@ -1,6 +1,3 @@
-<img width="400" height="250" alt="Floating Artworks" src="https://github.com/user-attachments/assets/b3cc82e5-2257-4a51-94bd-4d9a47fe9766" />
-<img width="400" height="250" alt="Floating Artworks" src="https://github.com/user-attachments/assets/1424a5f7-80a5-475e-a2df-451e47190cb9" />
-<img width="400" height="250" alt="B+RB" src="https://github.com/user-attachments/assets/43974c87-418d-428d-8e52-ea25818cd3dc" />
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/4ffb5157-ebd0-4fda-9832-4b18cd215119" />
 
 # Dragon Ball Z: Budokai Tenkaichi 3 Tag Team PC Recomp — Community Fixes & Mods
