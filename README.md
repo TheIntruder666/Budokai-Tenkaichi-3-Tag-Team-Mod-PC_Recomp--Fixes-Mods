@@ -84,6 +84,9 @@ Prepare your teleport and evade in your chosen direction. Greater travel distanc
 
 - Grab Follow-ups
 Turn a successful throw into a native pursuit or vanish attack to continue your combo.
+<img width="400" height="250" alt="Grab+vanish" src="https://github.com/user-attachments/assets/62ebc5c2-96c0-45a2-84ab-10565378d3c4" />
+<img width="400" height="250" alt="grab+pursuit" src="https://github.com/user-attachments/assets/8c93acf1-6ebd-4428-86db-f734880eb400" />
+
 
 - Melee Clash Follow-ups
 Follow a clash victory with an immediate pursuit or vanish attack, with buffered inputs for smoother execution.
@@ -92,6 +95,8 @@ Follow a clash victory with an immediate pursuit or vanish attack, with buffered
 
 - Modern Look (Credit for the original Modern Look implementation goes to the Tenkaichi3Decomp project.)
 Optional anime-style shading, richer colours and enhanced lighting.
+<img width="400" height="250" alt="20261115004054_1" src="https://github.com/user-attachments/assets/6d8451c4-df0d-4f6a-b2a1-5726f8c60a8c" />
+<img width="400" height="250" alt="20261115004101_1" src="https://github.com/user-attachments/assets/586d242e-2d6c-4bd8-9893-18fe5a9e73cd" />
 
 Customize your experience: enable each RB2 feature independently.
 
