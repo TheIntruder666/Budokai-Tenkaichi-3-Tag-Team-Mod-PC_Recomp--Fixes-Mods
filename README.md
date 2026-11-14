@@ -107,7 +107,7 @@ Give your game a fresh look with a redesigned UI that blends the classic Budokai
 -Budokai Tenkaichi–Style Character Select — Browse the roster in a redesigned interface inspired by the Budokai Tenkaichi games.
 
 -Dragon Ball Z–Inspired HUD — Play with a HUD that draws on the Dragon Ball Z logo’s color palette and the visual style of the Z era.
-<img width="1281" height="123" alt="image" src="https://github.com/user-attachments/assets/4f560638-1016-4d2f-8e4e-d8cdf89810a3" />
+<img width="1000" height="96" alt="image" src="https://github.com/user-attachments/assets/4f560638-1016-4d2f-8e4e-d8cdf89810a3" />
 
 -Floating Character Artwork — Enable a floating animation for character artwork on the character select screen.
 <img width="400" height="250" alt="Floating Artworks" src="https://github.com/user-attachments/assets/39a0f64b-a150-46a6-a0a0-f3e98cb2d2d6" />
