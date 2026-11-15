@@ -51,8 +51,6 @@ The objective is to explore new possibilities while keeping the original gamepla
 
 Players should always have the freedom to enable or disable modifications according to their preferences.
 
-## 🖥 1 Mod : 
-
 <img width="800" height="267" alt="ChatGPT Image 4 nov  2026, 18_47_09" src="https://github.com/user-attachments/assets/795712fa-edc8-4ce7-8d54-442d66bfcaa7" />
 
 - Custom music support through the My Music system.
@@ -64,8 +62,6 @@ Players should always have the freedom to enable or disable modifications accord
 - Custom soundtrack management.
 
 - Designed for Linux and Steam Deck. Windows is experimental.
-
-## 🖥 2 Mod : 
 
 <img width="800" height="267" alt="ChatGPT Image 4 nov  2026, 18_44_53" src="https://github.com/user-attachments/assets/485dc26a-1109-48ed-9c32-16088dff2264" />
 
@@ -99,8 +95,6 @@ Optional anime-style shading, richer colours and enhanced lighting.
 <img width="400" height="250" alt="20261115004101_1" src="https://github.com/user-attachments/assets/586d242e-2d6c-4bd8-9893-18fe5a9e73cd" />
 
 Customize your experience: enable each RB2 feature independently.
-
-## 🖥 3 Mod :
 
 <img width="800" height="267" alt="exec-bc0d3e2e-3655-4e95-af79-df13f3300625" src="https://github.com/user-attachments/assets/8475e063-5be3-4942-8ec6-b604f5918226" />
 
