@@ -100,18 +100,18 @@ Customize your experience: enable each RB2 feature independently.
 
 Give your game a fresh look with a redesigned UI that blends the classic Budokai Tenkaichi style with the colors and scouter tech of the Dragon Ball Z era.
 
--3D Character Previews — Replace character artwork with 3D models on the character select screen.
+- 3D Character Previews — Replace character artwork with 3D models on the character select screen.
 <img width="400" height="250" alt="Select screen 3D" src="https://github.com/user-attachments/assets/f1abc96f-15bf-442b-9476-b57a8ab46b03" />
 
--Budokai Tenkaichi–Style Character Select — Browse the roster in a redesigned interface inspired by the Budokai Tenkaichi games.
+- Budokai Tenkaichi–Style Character Select — Browse the roster in a redesigned interface inspired by the Budokai Tenkaichi games.
 
--Dragon Ball Z–Inspired HUD — Play with a HUD that draws on the Dragon Ball Z logo’s color palette and the visual style of the Z era.
+- Dragon Ball Z–Inspired HUD — Play with a HUD that draws on the Dragon Ball Z logo’s color palette and the visual style of the Z era.
 <img width="1000" height="96" alt="image" src="https://github.com/user-attachments/assets/4f560638-1016-4d2f-8e4e-d8cdf89810a3" />
 
--Floating Character Artwork — Enable a floating animation for character artwork on the character select screen.
+- Floating Character Artwork — Enable a floating animation for character artwork on the character select screen.
 <img width="400" height="250" alt="Floating Artworks" src="https://github.com/user-attachments/assets/39a0f64b-a150-46a6-a0a0-f3e98cb2d2d6" />
 
--Scouter-Inspired Stage Select — Choose your stage through an interface modeled after the scouters worn by Dragon Ball Z characters.
+- Scouter-Inspired Stage Select — Choose your stage through an interface modeled after the scouters worn by Dragon Ball Z characters.
 
 <img width="400" height="250" alt="20261114214150_1" src="https://github.com/user-attachments/assets/729e714e-2983-40e3-8baa-95ed0fffc1b5" />
 
