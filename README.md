@@ -5,6 +5,7 @@
 ## 📖 About This Repository
 
 Welcome to this community-driven repository dedicated to fixes, improvements, and optional modifications for Dragon Ball Z: Budokai Tenkaichi 3 Tag Team PC Recomp.
+https://github.com/tehmufti/Budokai-Tenkaichi-3-Tag-Team-Mod-PC_Recomp-
 
 The purpose of this project is to improve the gameplay experience, address technical issues, and introduce additional features while preserving the original game's identity.
 
